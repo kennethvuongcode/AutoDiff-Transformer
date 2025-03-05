@@ -1,0 +1,3 @@
+Hi there. I attempted to implement the extra credit in question 3 for MatMulSoftMax. The compute and gradient both
+pass the test but when I implemented the gradient function the performance test takes forever to run. I decided to comment out the 
+implementation but please uncomment and evalutate it. Thanks!
